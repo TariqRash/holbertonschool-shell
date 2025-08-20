@@ -16,3 +16,4 @@ This directory contains basic shell scripts:
 - `11-lists`: Lists all files in the current directory, parent directory, and /boot directory in long format
 - `12-file_type`: Prints the type of the file named iamafile in /tmp
 - `13-symbolic_link`: Creates a symbolic link to /bin/ls named __ls__
+- `14-copy_html`: Copies all HTML files from current directory to parent directory, only if they dont exist or are newer
