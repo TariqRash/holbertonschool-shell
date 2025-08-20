@@ -1,6 +1,10 @@
 # holbertonschool-shell
 
-This repository contains shell scripting exercises.
+This repository contains shell scripting exercises and projects.
 
-## Basics
-Fundamental shell commands and scripts.
+## Description
+Fundamental shell commands, navigation, file manipulation, and permissions management.
+
+## Structure
+- `basics/`: Basic shell commands and navigation
+- `permissions/`: File permissions and ownership management
