@@ -17,3 +17,5 @@ This directory contains shell permission management scripts:
 - `12-directory_permissions`: Creates a directory called my_dir with permissions 751
 - `13-change_group`: Changes the group owner to school for the file hello
 - `14-change_owner_and_group`: Changes the owner to vincent and group to staff for all files and directories
+- `15-symbolic_link_permissions`: Changes the owner and group of symbolic link _hello to vincent and staff
+- `16-if_only`: Changes owner of hello to vincent only if it is owned by guillaume
