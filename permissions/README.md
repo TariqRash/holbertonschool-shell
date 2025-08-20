@@ -14,3 +14,6 @@ This directory contains shell permission management scripts:
 - `9-John_Doe`: Sets the mode to 753 (rwxr-x-wx)
 - `10-mirror_permissions`: Sets the mode of hello the same as olleh
 - `11-directories_permissions`: Adds execute permission to all subdirectories only
+- `12-directory_permissions`: Creates a directory called my_dir with permissions 751
+- `13-change_group`: Changes the group owner to school for the file hello
+- `14-change_owner_and_group`: Changes the owner to vincent and group to staff for all files and directories
