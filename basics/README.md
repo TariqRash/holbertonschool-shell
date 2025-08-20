@@ -14,3 +14,4 @@ This directory contains basic shell scripts:
 - `9-firstdirdeletion`: Delete the directory my_first_directory that is in the /tmp directory
 - `10-back`: Changes the working directory to the previous one
 - `11-lists`: Lists all files in the current directory, parent directory, and /boot directory in long format
+- `12-file_type`: Prints the type of the file named iamafile in /tmp
